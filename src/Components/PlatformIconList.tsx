@@ -13,7 +13,6 @@ import { BsGlobe } from "react-icons/bs";
 import { Platform } from "../Hooks/useGame";
 import { HStack, Icon } from "@chakra-ui/react";
 import { IconType } from "react-icons";
-import { GrEbay } from "react-icons/gr";
 interface Props {
   platforms: Platform[];
 }
