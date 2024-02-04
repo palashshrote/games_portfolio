@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "../assets/basketball.svg";
 import { HStack, Image, Text } from "@chakra-ui/react";
 import ColorModeSwitch from "./ColorModeSwitch";
