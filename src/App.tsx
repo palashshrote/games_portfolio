@@ -17,8 +17,7 @@ const App = () => {
 
         <Show above="lg">
           <GridItem area="aside">
-            {" "}
-            <GenreList />{" "}
+            <GenreList />
           </GridItem>
         </Show>
 
