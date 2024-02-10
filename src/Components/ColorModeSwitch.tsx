@@ -10,7 +10,7 @@ const ColorModeSwitch = () => {
         colorScheme="red"
         size="lg"
       />
-      <Text>Dark mode</Text>
+      <Text whiteSpace={"nowrap"}>Dark mode</Text>
     </HStack>
   );
 };
